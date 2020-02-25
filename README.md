@@ -9,7 +9,7 @@ https://github.com/restrepo/ComputationalMethods
 ```bash
 git clone https://github.com/YOURUSER/Evaluacion2020-1.git
 ```
-  * Or, if we already have a local copy, update the repository
+    * Or, if we already have a local copy, update the repository
 ```
 git pull origin master
 ```
