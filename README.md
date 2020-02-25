@@ -37,7 +37,7 @@ git commit -am 'Tarea 01: Jueves 25 de febrero'
 ```
 git push origin master
 ```
-* From the forked repo in your GitHub account at `https://github.com/YOURUSER/Evaluacion2020-1` with the proper credentials, use the button "New Pull Request" and follow the green buttons until the end.
+* From the forked repo in your GitHub account at `https://github.com/YOURUSER/Evaluacion2020-1` with the proper credentials, use the button "New pull request" and follow the green buttons until the end.
 
 # Submodule help
 To update the changes from the main repository:
