@@ -8,8 +8,7 @@ https://github.com/restrepo/ComputationalMethods
 1. From your forked copy, either clone (replace `YOURUSER` with your user name at GitHub or copy from the Clone green button field):
 ```bash
 git clone https://github.com/YOURUSER/Evaluacion2020-1.git
-```
-or, if we already have a local copy, update the repository
+```or, if we already have a local copy, update the repository
 ```
 git pull origin master
 ```
