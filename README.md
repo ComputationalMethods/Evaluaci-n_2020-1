@@ -26,7 +26,7 @@ mkdir 98533678
 ```bash
 cd 98533678
 ```
-* Copy the notebook with your homework or examination there, let say: `tarea_01.ipynb` (you can use the Raw download from github with `wget` directly from any working repository). After that, add the new file to your repository with:
+* Copy the notebook with your homework or examination there, let say: `tarea_01.ipynb` (you can use the Raw download from github with `wget` directly from any working repository). After that, register the new file in the repository with:
 ```bash
 git add tarea_01.ipynb
 ```
