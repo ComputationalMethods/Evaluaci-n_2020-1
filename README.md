@@ -13,11 +13,11 @@ or, if we already have a local copy, update the repository
 ```
 git pull origin master
 ```
-2. Change to the repository base. After the clone (or before de previous update)
+1. Change to the repository base. After the clone (or before de previous update)
 ```bash
 cd Evaluacion2020-1
 ```
-3. Make a directory with or identification number, for example
+1. Make a directory with or identification number, for example
 ```bash
 mkdir 98533678
 ```
@@ -37,7 +37,7 @@ git commit -am 'Tarea 01: Jueves 25 de febrero'
 ```
 git push origin master
 ```
-by using your login information
+by using your login information.
 1. From the forked repo in your GitHub account: `https://github.com/YOURUSER/Evaluacion2020-1` with the proper credentials, use the button "New Pull Request" and follow the green buttons until the end.
 
 # Submodule help
