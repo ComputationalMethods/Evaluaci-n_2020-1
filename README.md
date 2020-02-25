@@ -17,7 +17,7 @@ git pull origin master
 ```bash
 cd Evaluacion2020-1
 ```
-3. Make a directory with or id, for example
+3. Make a directory with or identification number, for example
 ```bash
 mkdir 98533678
 ```
