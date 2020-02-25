@@ -4,11 +4,12 @@ Tareas y Exámenes 2020-1 del curso:
 https://github.com/restrepo/ComputationalMethods
 
 # Instructins to make the pull request
-1. Fork this repository to your github account with the button "Fork" in the upper right-part of this web page in GitHub
-1. From your forked copy, either clone (replace `YOURUSER` with your user name at GitHub or copy from the Clone green button field):
+* Fork this repository to your github account with the button "Fork" in the upper right-part of this web page in GitHub
+* From your forked copy, either clone (replace `YOURUSER` with your user name at GitHub or copy from the Clone green button field):
 ```bash
 git clone https://github.com/YOURUSER/Evaluacion2020-1.git
-```or, if we already have a local copy, update the repository
+```
+  * Or, if we already have a local copy, update the repository
 ```
 git pull origin master
 ```
