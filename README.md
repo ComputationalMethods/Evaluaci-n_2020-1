@@ -9,15 +9,15 @@ https://github.com/restrepo/ComputationalMethods
 ```bash
 git clone https://github.com/YOURUSER/Evaluacion2020-1.git
 ```
-Or, if we already have a local copy, update the repository
+> Or, if we already have a local copy, update the repository
 ```
 git pull origin master
 ```
-1. Change to the repository base. After the clone (or before de previous update)
+* Change to the repository base. After the clone (or before de previous update)
 ```bash
 cd Evaluacion2020-1
 ```
-1. Make a directory with or identification number, for example
+* Make a directory with or identification number, for example
 ```bash
 mkdir 98533678
 ```
@@ -25,20 +25,19 @@ and (or if alreday exists)  just change there
 ```bash
 cd 98533678
 ```
-1. Copy the notebook with your task there, let say: `tarea_01.ipynb` (you can use the Raw download from github with `wget` directly from any working repository). After that, add the new file to your repository with:
+* Copy the notebook with your task there, let say: `tarea_01.ipynb` (you can use the Raw download from github with `wget` directly from any working repository). After that, add the new file to your repository with:
 ```bash
 git add tarea_01.ipynb
 ```
-1. Register the change in your local repository with a clear messsage with
+* Register the change in your local repository with a clear messsage with
 ```bash
 git commit -am 'Tarea 01: Jueves 25 de febrero'
 ```
-1. Upload the changes to your forked repository in GitHub with
+* Upload the changes to your forked repository in GitHub with (your login information will be requested)
 ```
 git push origin master
 ```
-by using your login information.
-1. From the forked repo in your GitHub account: `https://github.com/YOURUSER/Evaluacion2020-1` with the proper credentials, use the button "New Pull Request" and follow the green buttons until the end.
+* From the forked repo in your GitHub account at `https://github.com/YOURUSER/Evaluacion2020-1` with the proper credentials, use the button "New Pull Request" and follow the green buttons until the end.
 
 # Submodule help
 To update the changes from the main repository:
