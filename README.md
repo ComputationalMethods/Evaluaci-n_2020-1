@@ -21,7 +21,7 @@ cd Evaluacion2020-1
 ```bash
 mkdir 98533678
 ```
-and (or if alreday exists)  just change there
+* Later (or if it alreday exists)  just change there with
 ```bash
 cd 98533678
 ```
