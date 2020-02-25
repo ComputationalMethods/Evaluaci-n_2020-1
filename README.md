@@ -13,7 +13,7 @@ or, if we already have a local copy, update the repository
 ```
 git pull origin master
 ```
-2. Change to the repository base. After the clone or befor de previous update
+2. Change to the repository base. After the clone (or before de previous update)
 ```bash
 cd Evaluacion2020-1
 ```
