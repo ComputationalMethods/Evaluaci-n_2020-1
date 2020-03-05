@@ -7,37 +7,39 @@ Original file is located at
     https://colab.research.google.com/drive/1YXG7QEMJpINfKCXKBzF0R9J1zP6nIDnu
 """
 
-lista=[]
-binario = []
+def binario(numero):
 
-numero = 47
-numeroini=47
-numero2 = numero
-while numero2 != 0:
-    modulo = numero2 % 2
-    binario.append(numero2 % 2 )
-    numero2= numero // 2
-    numero = numero2
-    lista.append(modulo)
-    print(numero2)
+    lista=[]
+    binario = []
+
     
-    
+    numeroini=numero
+    numero2 = numero
+    while numero2 != 0:
+        modulo = numero2 % 2
+        binario.append(numero2 % 2 )
+        numero2= numero // 2
+        numero = numero2
+        lista.append(modulo)
+        print(numero2)
+        
+        
 
 
-residuo = numero%2
+    residuo = numero%2
 
-print("%d convertido a binario es :"%(numeroini))
+    print("%d convertido a binario es :"%(numeroini))
 
-lista = binario[::-1]
+    lista = binario[::-1]
 
 
-cantidad = int(len(lista))
+    cantidad = int(len(lista))
 
-adicion=0
+    adicion=0
 
-while cantidad < 8:
-    cantidad += 1
-    binario.append(adicion)
+    while cantidad < 8:
+        cantidad += 1
+        binario.append(adicion)
 
-lista = binario[::-1]
-print(lista)
+    lista = binario[::-1]
+    print(lista)
