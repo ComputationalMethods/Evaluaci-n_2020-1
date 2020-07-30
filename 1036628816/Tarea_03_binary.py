@@ -17,5 +17,6 @@ def conv(a):
   return(num_bin)
 
 if __name__=='__main__':
-  n = input('Escriba un entero: \n')
-  print('La representacion binaria es: {}'.format(n))
+  n = int(input('Escriba un entero: \n'))
+  m = conv(n)
+  print('La representacion binaria es: {}'.format(m))
