@@ -5,24 +5,24 @@ https://github.com/restrepo/ComputationalMethods
 
 # Instructions to make the pull request
 * Fork this repository to your github account with the button "Fork" in the upper right-part of this web page in GitHub
-* From your forked copy, either clone (replace `YOURUSER` with your user name at GitHub or copy from the Clone green button field):
+* Only the first time: From your forked copy, clone (replace `YOURUSER` with your user name at GitHub or copy from the Clone green button field):
 ```bash
 git clone https://github.com/YOURUSER/Evaluacion2020-1.git
 ```
-> Or, if we already have a local copy, update the repository
+After the clone follow the next step
+* Update the repository
 ```
 git pull origin master
 ```
-* Change to the repository base. After the clone
-> or before the previous update
+* Change to the repository base
 ```bash
 cd Evaluacion2020-1
 ```
 * Make a directory with your identification number, for example
 ```bash
-mkdir 98533678
+mkdir -p 98533678
 ```
-* Later (or if it alreday exists)  just change there with
+* Go there with
 ```bash
 cd 98533678
 ```
